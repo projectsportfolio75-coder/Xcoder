@@ -11,7 +11,7 @@ Ensure you have Node.js installed on your machine. You can check by running `nod
 1. **You can git clone it:**
 
    ```sh
-   git clone https://github.com/Xeven777/xcoder.git
+   git clone https://github.com/projectsportfolio75-coder/Xcoder
 
    ```
 
@@ -38,7 +38,3 @@ This will create a new directory named `next-shadcn-template` in your current di
 ### Contributing
 
 We welcome contributions from the community. Whether you want to add new features, fix bugs, or improve documentation, your help is appreciated.
-
-### Owner
-
-The primary contact for inquiries about the project is [Anish Biswas](https://github.com/Xeven777). Feel free to reach out for any questions, suggestions, or issues related to the project. My [Linkedin](https://www.linkedin.com/in/anishbiswas777/).
