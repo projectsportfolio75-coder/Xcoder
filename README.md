@@ -33,8 +33,6 @@ This will create a new directory named `next-shadcn-template` in your current di
 
    Now, you should be able to see the application running at `localhost:3000` in your web browser! ✨
 
-##### You can also download the code as Zip.
-
 ### Contributing
 
 We welcome contributions from the community. Whether you want to add new features, fix bugs, or improve documentation, your help is appreciated.
